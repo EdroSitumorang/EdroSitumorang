@@ -17,7 +17,7 @@ I come from Indonesia, in Depok to be precise, 20 years old, love technology and
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdroSitumorang&theme=radical)
+
 
 ### Connect with me:
 
